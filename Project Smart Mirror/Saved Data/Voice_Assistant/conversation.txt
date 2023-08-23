@@ -1,0 +1,11 @@
+conversation log:
+user: bye
+AI: , greg
+
+Bye! Have a great day!
+
+user: how can I help you
+AI: 
+
+What kind of help do you need?
+

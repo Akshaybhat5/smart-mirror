@@ -1,0 +1,8 @@
+Emotion Detection logs:
+Detected Emotions: sad
+Affirmations:  New and exciting opportunities are always coming my way. 
+----------------------------------------------------------------------------------------------------
+Emotion Detection logs:
+Detected Emotions: sad
+Affirmations:  Today is full of miracles. 
+----------------------------------------------------------------------------------------------------
