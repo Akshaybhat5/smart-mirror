@@ -364,7 +364,7 @@ start_label.place(relx=0.72, rely=0.6, anchor="w")  # Adjust the placement
 start_button = customtkinter.CTkButton(app, text="Start Talking", font=("Roboto", 16), command=main_voice_assistant)
 start_button.place(relx=0.72, rely=0.65, anchor="w")
 
-end_text = "Say BYE smart mirror\nto end the conversation"
+end_text = "Say THANK YOU smart mirror\nto end the conversation"
 end_label = tk.Label(app, text=end_text, font=("Roboto", 17), fg="white", bg="black", justify="left")
 end_label.place(relx=0.72, rely=0.7, anchor="w")
 
